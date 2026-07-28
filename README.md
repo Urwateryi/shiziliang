@@ -2,6 +2,12 @@
 
 基于「洪恩识字」字表（1795 字，按学习顺序）的儿童识字量小游戏。纯静态网页，无需联网、无需安装。
 
+## 长这样
+
+| 首页 | 测一测 | 选关卡 | 听音闯关 |
+|---|---|---|---|
+| ![首页](docs/screenshots/home.png) | ![测一测](docs/screenshots/test.png) | ![选关卡](docs/screenshots/levels.png) | ![听音闯关](docs/screenshots/quiz.png) |
+
 ## 怎么玩
 
 - **在线玩**：[https://urwateryi.github.io/shiziliang/](https://urwateryi.github.io/shiziliang/)
