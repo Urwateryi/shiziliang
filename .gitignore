@@ -1,0 +1,6 @@
+# 大文件与本地产物不入库
+*.pdf
+data/review/
+data/ocr_log.txt
+.DS_Store
+*.zip
