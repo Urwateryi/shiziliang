@@ -1,10 +1,11 @@
-# 白白的识字量
+# 幼儿识字检测
 
 基于「洪恩识字」字表（1795 字，按学习顺序）的儿童识字量小游戏。纯静态网页，无需联网、无需安装。
 
 ## 怎么玩
 
-- **在线/本地打开**：下载 [game/白白的识字量.html](game/白白的识字量.html)（单文件版，字库已内嵌），用任意浏览器打开即可。
+- **在线玩**：[https://urwateryi.github.io/shiziliang/](https://urwateryi.github.io/shiziliang/)
+- **本地打开**：下载 [game/幼儿识字检测.html](game/幼儿识字检测.html)（单文件版，字库已内嵌），用任意浏览器打开即可。
 - 也可以打开 `game/index.html`（需与 `game/hanzi-data.js` 在同一目录）。
 
 ## 两个模式
@@ -18,7 +19,7 @@
 
 ```
 game/
-  白白的识字量.html   单文件版（推荐分发）
+  幼儿识字检测.html   单文件版（推荐分发）
   index.html          游戏页面
   hanzi-data.js       字库（字 + 词语 + 例句，1795 条）
 tools/
