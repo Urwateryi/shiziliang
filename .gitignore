@@ -4,3 +4,13 @@ data/review/
 data/ocr_log.txt
 .DS_Store
 *.zip
+
+# Tencent Cloud EdgeOne
+.env
+.edgeone/*
+.tef_dist/*
+
+# 部署工具本地产物
+.vercel-tmp/
+.vercel/
+.env*.local
